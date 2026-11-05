@@ -1,0 +1,7 @@
+# Commercial fonts (Maison Neue) are licensed, not redistributable. Copy them into site/assets/fonts/ locally.
+*.otf
+*.woff
+*.woff2
+.DS_Store
+node_modules/
+source/thumbs/
